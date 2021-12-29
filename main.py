@@ -24,7 +24,7 @@ app.add_middleware(
 
 
 
-ADAFRUIT_IO_KEY = 'aio_MPhI25LLu4yi53m6auV9v8V99GfW'
+ADAFRUIT_IO_KEY = 'aio_Selm30Gb4hBqOYhrbmpCjsGlb7Wf'
 
 ADAFRUIT_IO_USERNAME = 'DavidCop'
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
